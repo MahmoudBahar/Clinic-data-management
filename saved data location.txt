@@ -1,0 +1,1 @@
+the program will create a folder named saved data in the same directory of the "Clinic data management.exe" and will store the data in it

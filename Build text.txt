@@ -1,0 +1,1 @@
+g++ "Main entry"/main.cpp "Admin data"/ADMIN_functions.cpp "Data structure"/LINKED_LIST_functions.cpp "Doctor data"/DOCTOR_functions.cpp "Employee data"/EMPLOYEE_functions.cpp "File handling"/FILE_HANDLING_functions.cpp "User data"/USER_functions.cpp -static-libgcc -static-libstdc++ -o "Clinic data management"
